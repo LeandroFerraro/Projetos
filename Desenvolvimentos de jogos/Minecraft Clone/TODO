@@ -1,0 +1,18 @@
+ - Geração automática do mundo ()
+ - Inventário para selecionar o tile ()
+ - Sistema de construção ()
+ - Sistema de vida e tempo que durou no jogo ()
+ - Inimigos ()
+ - Trocar o ciclo de dia para noite ()
+ 
+ 
+ [MODO DE SOBREVIVÊNCIA]
+ /*
+						if(xx < 80) {
+							tiles[xx+yy*WIDTH] = new WallTile(xx*16,yy*16,Tile.TILE_SAND);
+						}else if(xx < 130){
+							tiles[xx+yy*WIDTH] = new WallTile(xx*16,yy*16,Tile.TILE_EARTH);
+						}else if(xx < 170) {
+							tiles[xx+yy*WIDTH] = new WallTile(xx*16,yy*16,Tile.TILE_SNOW);
+						}
+						*/
